@@ -1,0 +1,8 @@
+{
+  "name": "g-utilities",
+  "version": "1.0.0",
+  "description": "Utility-first runtime JavaScript styling inspired by Tailwind CSS",
+  "main": "src/index.js",
+  "keywords": ["tailwind", "utility", "css", "js"],
+  "license": "MIT"
+}
